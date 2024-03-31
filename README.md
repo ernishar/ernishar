@@ -11,7 +11,7 @@
 
 - 🎓 I am currently pursuing my **Bachelor's in Information Technology**.
 
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
+- 🌱 I’m currently learning **NodeJS & ReactJS.**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
