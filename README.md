@@ -12,7 +12,7 @@
 
 ### 👀 A little bit about me...
 
-* Currently itern at [@Netclues](https://www.netclues.in/)
+* Currently intern at [@Netclues](https://www.netclues.in/)
 * Information Technology  from [@GTU](https://www.gtu.ac.in/)
 
 
