@@ -12,7 +12,7 @@
 
 ### 👀 A little bit about me...
 
-* Currently intern at [@Netclues](https://www.netclues.in/)
+* Currently Learning at [Data Structure & Algorithm]()
 * Information Technology  from [@GTU](https://www.gtu.ac.in/)
 
 
